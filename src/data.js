@@ -10,7 +10,7 @@ export const storeProducts = [
     id: 1,
     title: "The Razer Blade 14 Inch",
     img: "img/laptop-1.jpg",
-    price: 2.399,
+    price: 2000,
     company: "GOOGLE",
     info:
     <React.Fragment>
@@ -32,7 +32,7 @@ export const storeProducts = [
     id: 2,
     title: "The Razer Blade 15 Inch",
     img: "img/laptop-2.jpg",
-    price: 1.599,
+    price: 1500,
     company: "SAMSUNG",
     info:
     <React.Fragment>
